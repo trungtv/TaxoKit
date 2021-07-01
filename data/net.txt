@@ -1,0 +1,39 @@
+MÔ TẢ CÔNG VIỆC
+Top 3 Reasons To Join Us
+
+Review lương 3 lần/năm.
+Thưởng cá nhân theo dự án và lương tháng 13++.
+Được tiếp xúc với hệ thống CNTT hàng đầu thế giới.
+Công ty cổ phần CNV HOLDINGS (CNV) với hơn 10 năm kinh nghiệm mang giải pháp tạo App chăm sóc khách hàng trên IOS và Android số 1 Việt Nam, được tin dùng với hơn 1000+ thương hiệu hàng đầu.
+Chúng tôi mong muốn tìm kiếm những người đồng hành ở vị trí .NET DEVELOPERS cùng chia sẻ niềm đam mê Công Nghệ và đóng góp những giá trị cốt lõi cho đại gia đình CNV.
+
+Mô tả công việc:
+
+Phát triển hệ thống website/ứng dụng di động.
+Xây dựng hệ thống APIs giao tiếp với bên thứ 3 hoặc ứng dụng di động.
+Hỗ trợ bảo trì, nâng cấp, tối ưu về hiệu năng và bảo mật hệ thống sẵn có.
+Chi tiết công việc sẽ được trao đổi khi phỏng vấn.
+Được trực tiếp tham gia các quá trình phát triển sản phẩm công ty và tối ưu hóa hệ thống các sản phẩm của công ty.
+YÊU CẦU CÔNG VIỆC
+Phải có:
+
+3-5 năm kinh nghiệm phát triển web với C#, ASP.NET hoặc ASP.NET Core, EF hoặc EF Core, Web API.
+Điểm cộng:
+
+Có kinh nghiệm hoặc mong muốn tìm hiểu React, HTML5 và CSS3.
+Đã từng tham phát triển sản phẩm SaaS hoặc các sản phẩm có khối lượng dữ liệu lớn.
+Đã từng sử dụng MySQL / MongoDB / Elasticsearch.
+Có kinh nghiệm CI / CD.
+THÔNG TIN KHÁC
+Bằng cấp: Đại học
+Giới tính: Nam
+Phụ cấp khác: Phụ cấp khác :Theo chính sách chung của công ty,
+Thời gian thử việc: 2 tháng
+Cơ hội huấn luyện: Được tiếp cận với sản phẩm, xu hướng về công nghệ hàng đầu thế giới
+Độ tuổi: 23 - 35
+Thời gian làm việc: 8h30 - 18h từ thứ 2 - thứ 6
+Đồng nghiệp: Trẻ Trung - Nhiệt Tình - Vui Vẻ
+Phúc lợi:
+Các chế độ Luật lao động hiện hành BHXH, Thưởng Lễ, Tết, Du lịch hàng năm, Sinh nhật… và các phúc lợi theo quy định của Công ty.
+Ngày nghỉ: T7 và Chủ Nhật
+

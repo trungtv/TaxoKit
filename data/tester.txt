@@ -1,0 +1,25 @@
+MÔ TẢ CÔNG VIỆC
+- Xây dựng các tài liệu test và quy trình test cho sản phẩm: test case, test report…
+- Nắm vững các tài liệu mô tả sản phẩm, tài liệu mô tả tính năng sản phẩm, và
+các tài liệu khác liên quan.
+- Chủ động xây dựng kịch bản cụ thể, xây dựng công cụ test và lên kế hoạch
+thực hiện test cho sản phẩm (auto, manual), căn cứ vào các tài liệu mô tả sản
+phẩm.
+- Đề xuất hoàn thiện các quy trình, tài liệu liên quan đến testing
+- Tìm hiểu, nghiên cứu các kiến thức mới liên quan đến testing, đề xuất và áp
+dụng các công cụ test mới theo xu hướng mới của công nghệ
+- Viết tài liệu hướng dẫn thao tác cho người dùng trên giao diện (userguide).
+- Đề xuất, đóng góp ý kiến để hoàn thiện giao diện người dùng (nếu có) thông
+qua quá trình test
+- Các công việc khác theo sự phân công
+
+YÊU CẦU CÔNG VIỆC
+- Tốt nghiệp đại học chuyên ngành công nghệ thông tin, điện tử viễn thông hoặc các ngành có liên quan khác
+- Có tối thiểu 1 năm kinh nghiệm làm việc ở vị trí tương đương
+- Nắm vững kiến thức về kiểm thử, am hiểu về quy trình phát triển sản phẩm là một lợi thế
+- Có kinh nghiệm về automation test, API test, stress test (test response của web page)
+- Có kinh nghiệm làm việc với các công cụ test tự động, các tool tracking lỗi
+- Tiếng Anh tốt, có khả năng đọc hiểu và viết tài liệu bằng tiếng Anh (test case, test report, userguide…)
+- Có kinh nghiệm làm việc với Openproject, GIT là một lợi thế
+
+

@@ -1,0 +1,48 @@
+MÔ TẢ CÔNG VIỆC
+- Xây dựng, phát triển hệ thống ERP trên nền tảng Odoo
+
+- Theo dõi, quản lý liên tục quá trình hoạt động của phần mềm và đề xuất cập nhật hệ thống theo cải tiến (nếu có).
+
+- Phát triển và sửa lỗi, nâng cấp các hệ thống đang tồn tại
+
+- Đánh giá xu hướng công nghệ, tư vấn, đề xuất các ý tưởng, giải pháp mới cho ban giám đốc để cải tiến hiệu quả của việc ứng dụng công nghệ thông tin trong hoạt động của công ty.
+
+- Quản lý toàn bộ hệ thống IT nội bộ, đảm bảo đường truyền internet luôn trong tình trạng hoạt động tốt, không ngắt quãng công việc của các bộ phận. Thường xuyên kiểm tra danh mục và lên lịch thực hiện việc bảo trì máy móc, thiết bị.
+
+- Phối hợp phòng NSHC đảm bảo tốt cơ sở vật chất, máy móc, trang thiết bị, phương tiện làm việc cho nhân viên.
+
+- Thiết lập hệ thống an ninh mạng, bảo mật thông tin của Công ty, phân quyền chia sẻ và sử dụng dữ liệu cho từng vị trí nhân viên, backup dữ liệu (WAN, LAN, …).
+
+- Hoạch định định biên nhân sự tại bộ phận. Phân công công việc và theo dõi tiến độ hoàn thành công việc của nhân viên IT.
+
+- Đào tạo chuyên môn kiến thức nội bộ.
+
+YÊU CẦU CÔNG VIỆC
+1. Kiến thức:
+
+- Tốt nghiệp Đại học trở lên, chuyên ngành Công nghệ Thông tin.
+
+-  Có kinh nghiệm 03 năm trở lên ở vị trí tương đương.
+
+-  Có kinh nghiệm trong ngành bán lẻ là một lợi thế
+
+-   Có kinh nghiệm xây dựng hệ thống ERP, Web, App ...
+
+2. Kỹ năng:
+
+-  Lập kế hoạch, lãnh đạo, phân tích dữ liệu, tổ chức và giám sát công việc.
+
+-   Kỹ năng thuyết trình, giao tiếp tạo mối quan hệ hợp tác với các phòng ban.
+
+-   Giải quyết vấn đề sự cố phát sinh.
+
+3. Thái độ:
+
+-  Nhanh nhẹn, khéo léo, sáng tạo trong công việc.
+
+-  Quyết đoán, trách nhiệm, chịu được áp lực công việc cao.
+
+THÔNG TIN KHÁC
+Bằng cấp: Đại học
+Độ tuổi: 30 - 45
+
